@@ -1,0 +1,33 @@
+total 36
+drwxrwxr-x  3 wickstjo wickstjo 4096 elo    11 12:12 .
+drwxrwxr-x 15 wickstjo wickstjo 4096 elo    11 11:11 ..
+-rw-rw-r--  1 wickstjo wickstjo   81 elo    11 11:18 01-shell-selection.sh
+-rw-rw-r--  1 wickstjo wickstjo  129 elo    11 11:23 02-writing-to-files.sh
+-rwxrwxr-x  1 wickstjo wickstjo  563 elo    11 11:47 03-conditionals.sh
+-rwxrwxr-x  1 wickstjo wickstjo  700 elo    11 11:57 04-loops.sh
+-rwxrwxr-x  1 wickstjo wickstjo  284 elo    11 12:05 05-script-input.sh
+-rwxrwxr-x  1 wickstjo wickstjo  157 elo    11 12:14 06-script-output.sh
+drwxrwxr-x  2 wickstjo wickstjo 4096 elo    11 12:12 temp
+total 40
+drwxrwxr-x  3 wickstjo wickstjo 4096 elo    11 12:14 .
+drwxrwxr-x 15 wickstjo wickstjo 4096 elo    11 11:11 ..
+-rw-rw-r--  1 wickstjo wickstjo   81 elo    11 11:18 01-shell-selection.sh
+-rw-rw-r--  1 wickstjo wickstjo  129 elo    11 11:23 02-writing-to-files.sh
+-rwxrwxr-x  1 wickstjo wickstjo  563 elo    11 11:47 03-conditionals.sh
+-rwxrwxr-x  1 wickstjo wickstjo  700 elo    11 11:57 04-loops.sh
+-rwxrwxr-x  1 wickstjo wickstjo  284 elo    11 12:05 05-script-input.sh
+-rwxrwxr-x  1 wickstjo wickstjo  162 elo    11 12:15 06-script-output.sh
+-rw-rw-r--  1 wickstjo wickstjo   53 elo    11 12:14 both.txt
+drwxrwxr-x  2 wickstjo wickstjo 4096 elo    11 12:12 temp
+total 44
+drwxrwxr-x  3 wickstjo wickstjo 4096 elo    11 12:19 .
+drwxrwxr-x 15 wickstjo wickstjo 4096 elo    11 11:11 ..
+-rw-rw-r--  1 wickstjo wickstjo   81 elo    11 11:18 01-shell-selection.sh
+-rw-rw-r--  1 wickstjo wickstjo  129 elo    11 11:23 02-writing-to-files.sh
+-rwxrwxr-x  1 wickstjo wickstjo  584 elo    11 12:20 03-conditionals.sh
+-rwxrwxr-x  1 wickstjo wickstjo  700 elo    11 11:57 04-loops.sh
+-rwxrwxr-x  1 wickstjo wickstjo  284 elo    11 12:05 05-script-input.sh
+-rwxrwxr-x  1 wickstjo wickstjo  162 elo    11 12:15 06-script-output.sh
+-rwxrwxr-x  1 wickstjo wickstjo  149 elo    11 12:19 07-exporting-args.sh
+-rwxrwxr-x  1 wickstjo wickstjo  123 elo    11 12:21 08-string-processing.sh
+drwxrwxr-x  2 wickstjo wickstjo 4096 elo    11 12:15 temp
